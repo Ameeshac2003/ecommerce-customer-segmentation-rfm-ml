@@ -74,7 +74,7 @@ Cluster performance and customer distributions were analyzed across models.
   - Interactive customer segmentation dashboard
   - Cluster exploration and insights
     ## Live Application
-Streamlit App: https://ecommerce-customer-segmentation-rfm-ml-rfhypwauajph6vcce8.streamlit.app
+Streamlit App: https://ecommerce-customer-segmentation-rfm-ml-rfhvypwauajpfhp6vcce8r.streamlit.app/
 
 - **Tableau**
   - Customer segment distribution
@@ -112,4 +112,5 @@ for non-technical stakeholders.
 
 ##  Author
 **Ameesha C**
+
 
